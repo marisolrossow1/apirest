@@ -1,0 +1,214 @@
+[
+    {
+      "type": "PH",
+      "location": "Av. Juan Bautista Alberdi 2384",
+      "floor": "PB",
+      "department": "A",
+      "district": "Flores",
+      "flat_rooms": 3,
+      "link_location": "https://maps.app.goo.gl/Hy3LpkJJs6xpc6iY9",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "terrace",
+        "garage"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. Rivadavia 4521",
+      "floor": "5",
+      "department": "B",
+      "district": "Almagro",
+      "flat_rooms": 2,
+      "link_location": "https://maps.app.goo.gl/dWAubx3nfcfJ14BH7",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "elevator",
+        "gym"
+      ]
+    },
+    {
+      "type": "PH",
+      "location": "Avenida Belgrano 3250",
+      "floor": "0",
+      "department": "C",
+      "district": "Balvanera",
+      "flat_rooms": 4,
+      "link_location": "https://maps.app.goo.gl/MdjXkA424NQLnZLM9",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "terrace",
+        "garage"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Lavalle 1860",
+      "floor": "7",
+      "department": "D",
+      "district": "San Nicolás",
+      "flat_rooms": 2,
+      "link_location": "https://maps.app.goo.gl/jStD6sM8WCy97w1Z8",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "elevator",
+        "sum"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Tucumán 1234",
+      "floor": "3",
+      "department": "A",
+      "district": "Microcentro",
+      "flat_rooms": 3,
+      "link_location": "https://maps.app.goo.gl/hDmNy75xQzjAawWK7",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "elevator",
+        "garage"
+      ]
+    },
+    {
+      "type": "PH",
+      "location": "Av. Corrientes 3322",
+      "floor": "PB",
+      "department": "B",
+      "district": "Abasto",
+      "flat_rooms": 4,
+      "link_location": "https://maps.app.goo.gl/VVaBenp8H1biK6kj8",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "terrace"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. Cabildo 1890",
+      "floor": "10",
+      "department": "C",
+      "district": "Belgrano",
+      "flat_rooms": 2,
+      "link_location": "https://maps.app.goo.gl/DG5HEy1ETzMpsX5d6",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "pool",
+        "gym",
+        "elevator"
+      ]
+    },
+    {
+      "type": "PH",
+      "location": "Av. Scalabrini Ortiz 1435",
+      "floor": "0",
+      "department": "A",
+      "district": "Palermo",
+      "flat_rooms": 3,
+      "link_location": "https://maps.app.goo.gl/xuVDEF3SUALkaXez6",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "garage",
+        "terrace"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. Córdoba 5012",
+      "floor": "8",
+      "department": "A",
+      "district": "Villa Crespo",
+      "flat_rooms": 3,
+      "link_location": "https://maps.app.goo.gl/FadpvZYQeM1FP4ri7",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "gym",
+        "elevator"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. Santa Fe 2295",
+      "floor": "12",
+      "department": "C",
+      "district": "Recoleta",
+      "flat_rooms": 2,
+      "link_location": "https://maps.app.goo.gl/ydEGjaD6iGx2mBPp8",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "elevator",
+        "garage"
+      ]
+    },
+    {
+      "type": "PH",
+      "location": "Avenida de Mayo 1234",
+      "floor": "PB",
+      "department": "B",
+      "district": "Caballito",
+      "flat_rooms": 4,
+      "link_location": "https://maps.app.goo.gl/82edvkGvEmF44Bpt8",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "terrace",
+        "garage"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. Pueyrredón 2645",
+      "floor": "6",
+      "department": "A",
+      "district": "Barrio Norte",
+      "flat_rooms": 3,
+      "link_location": "https://maps.app.goo.gl/X3q1TrYhouwA7pn28",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "gym",
+        "pool",
+        "elevator"
+      ]
+    },
+    {
+      "type": "PH",
+      "location": "Av. Directorio 1870",
+      "floor": "PB",
+      "department": "B",
+      "district": "Parque Chacabuco",
+      "flat_rooms": 3,
+      "link_location": "https://maps.app.goo.gl/y9krxSF19nTvjrKXA",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "terrace"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. San Juan 1231",
+      "floor": "4",
+      "department": "D",
+      "district": "San Cristóbal",
+      "flat_rooms": 2,
+      "link_location": "https://maps.app.goo.gl/3XtK2tCH1raWC9xo7",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "sum",
+        "elevator"
+      ]
+    },
+    {
+      "type": "Departamento",
+      "location": "Av. Independencia 3015",
+      "floor": "9",
+      "department": "C",
+      "district": "Boedo",
+      "flat_rooms": 2,
+      "link_location": "https://maps.app.goo.gl/8L9D956y5qLHKuK7A",
+      "flat_img": "https://picsum.photos/200",
+      "section": [
+        "pool",
+        "garage",
+        "elevator"
+      ]
+    }
+  ]
+  

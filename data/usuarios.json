@@ -1,0 +1,137 @@
+[
+    {
+      "name": "Juan",
+      "surname": "Pérez",
+      "email": "juan.perez@gmail.com",
+      "age": 35,
+      "dni": "30456789",
+      "picture": "https://picsum.photos/200",
+      "description": "Amante del fútbol y la tecnología."
+    },
+    {
+      "name": "María",
+      "surname": "Gómez",
+      "email": "maria.gomez@gmail.com",
+      "age": 28,
+      "dni": "32567890",
+      "picture": "https://picsum.photos/200",
+      "description": "Diseñadora gráfica y fotógrafa."
+    },
+    {
+      "name": "Carlos",
+      "surname": "Fernández",
+      "email": "carlos.fernandez@gmail.com",
+      "age": 42,
+      "dni": "27345678",
+      "picture": "https://picsum.photos/200",
+      "description": "Apasionado por la cocina y los viajes."
+    },
+    {
+      "name": "Lucía",
+      "surname": "Martínez",
+      "email": "lucia.martinez@gmail.com",
+      "age": 31,
+      "dni": "31678901",
+      "picture": "https://picsum.photos/200",
+      "description": "Estudiante de arquitectura y amante del arte."
+    },
+    {
+      "name": "Federico",
+      "surname": "López",
+      "email": "federico.lopez@gmail.com",
+      "age": 27,
+      "dni": "29567892",
+      "picture": "https://picsum.photos/200",
+      "description": "Ingeniero de software y fanático del running."
+    },
+    {
+      "name": "Ana",
+      "surname": "Rodríguez",
+      "email": "ana.rodriguez@gmail.com",
+      "age": 36,
+      "dni": "30567893",
+      "picture": "https://picsum.photos/200",
+      "description": "Chef profesional especializada en pastelería."
+    },
+    {
+      "name": "Diego",
+      "surname": "Sosa",
+      "email": "diego.sosa@gmail.com",
+      "age": 45,
+      "dni": "26567894",
+      "picture": "https://picsum.photos/200",
+      "description": "Abogado con más de 20 años de experiencia."
+    },
+    {
+      "name": "Valeria",
+      "surname": "Ramírez",
+      "email": "valeria.ramirez@gmail.com",
+      "age": 33,
+      "dni": "31567895",
+      "picture": "https://picsum.photos/200",
+      "description": "Consultora de marketing digital."
+    },
+    {
+      "name": "Santiago",
+      "surname": "Torres",
+      "email": "santiago.torres@gmail.com",
+      "age": 38,
+      "dni": "28567896",
+      "picture": "https://picsum.photos/200",
+      "description": "Músico y productor audiovisual."
+    },
+    {
+      "name": "Florencia",
+      "surname": "Castro",
+      "email": "florencia.castro@gmail.com",
+      "age": 29,
+      "dni": "32567897",
+      "picture": "https://picsum.photos/200",
+      "description": "Diseñadora de moda y emprendedora."
+    },
+    {
+      "name": "Martín",
+      "surname": "Ríos",
+      "email": "martin.rios@gmail.com",
+      "age": 41,
+      "dni": "27567898",
+      "picture": "https://picsum.photos/200",
+      "description": "Profesor de historia en escuelas secundarias."
+    },
+    {
+      "name": "Laura",
+      "surname": "Morales",
+      "email": "laura.morales@gmail.com",
+      "age": 34,
+      "dni": "31567899",
+      "picture": "https://picsum.photos/200",
+      "description": "Periodista freelance especializada en política."
+    },
+    {
+      "name": "Javier",
+      "surname": "Aguirre",
+      "email": "javier.aguirre@gmail.com",
+      "age": 39,
+      "dni": "28567900",
+      "picture": "https://picsum.photos/200",
+      "description": "Empresario del rubro tecnológico."
+    },
+    {
+      "name": "Natalia",
+      "surname": "Romero",
+      "email": "natalia.romero@gmail.com",
+      "age": 26,
+      "dni": "29567901",
+      "picture": "https://picsum.photos/200",
+      "description": "Licenciada en relaciones públicas y eventos."
+    },
+    {
+      "name": "Fernando",
+      "surname": "Vera",
+      "email": "fernando.vera@gmail.com",
+      "age": 47,
+      "dni": "26567902",
+      "picture": "https://picsum.photos/200",
+      "description": "Médico clínico con pasión por la investigación."
+    }
+]
